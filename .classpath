@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/aopalliance.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/com.springsource.org.apache.commons.io-1.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/hibernate-core-4.1.6.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/jstl.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-aop-3.2.0.RELEASE.jar" sourcepath="F:/Spring开发整合包/通过调试的开发整合包/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-aspects-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-instrument-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-instrument-tomcat-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-jms-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-orm-3.2.0.RELEASE.jar" sourcepath="F:/Spring开发整合包/通过调试的开发整合包/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-oxm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/spring-webmvc-portlet-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/Spring开发整合包/通过调试的开发整合包/standard-1.1.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
